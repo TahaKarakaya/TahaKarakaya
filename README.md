@@ -1,4 +1,7 @@
-### Hi there 👋
+# 🥶 Taha Karakaya
+
+**`🔥Taha Karakaya (Software Developer / Author / Educator / Entrepreneur)🔥`**
+
 
 <!--
 **TahaKarakaya/TahaKarakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
