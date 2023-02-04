@@ -1,5 +1,6 @@
 <p color="blue">
   <a href="https://github.com/TahaKarakaya">
+<img src="https://i.pinimg.com/originals/cc/bd/86/ccbd861d02823dc0ab80e946d6377a9a.gif">
     <h1 align = "center">Taha Karakaya🥶</h1>
 </p>
 
