@@ -45,4 +45,7 @@ I was born in Istanbul in 2006. I have been dealing with software for over 5 yea
 
 #
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 
