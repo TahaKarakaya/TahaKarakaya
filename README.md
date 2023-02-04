@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TahaKarakaya">
-      <img  src="https://i.pinimg.com/564x/e0/6f/bf/e06fbf12037d1290398ea56089e8f97b.jpg" >
+      <img  src="https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif" >
     <h1 align = "center">Taha Karakaya🥶</h1>
 </p>
 
