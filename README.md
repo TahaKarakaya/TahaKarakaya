@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/taha-karakaya-842538237/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/OQUXwNp.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@tahakarakaya-giyabo7811"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@tahakarakaya1152"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/tahakarakaya_/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/M6yBwxS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
