@@ -38,10 +38,6 @@ I was born in Istanbul in 2006. I have been dealing with software for over 5 yea
 
 ---
 
-<p align="center">
-  <h1 align="center">👻Udemy👻</h1>
-  <img src="Opera Anlık Görüntü_2023-02-04_184714_www.udemy.com.png" >
-</p>
 
 #
 
